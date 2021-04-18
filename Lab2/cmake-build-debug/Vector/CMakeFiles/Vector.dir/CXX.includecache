@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/akim/Other/repos/OS-Labs/Lab2/Number/Number.h
+iostream
+-
+
+/home/akim/Other/repos/OS-Labs/Lab2/Vector/Vector.cpp
+Vector.h
+/home/akim/Other/repos/OS-Labs/Lab2/Vector/Vector.h
+cmath
+-
+
+/home/akim/Other/repos/OS-Labs/Lab2/Vector/Vector.h
+../Number/Number.h
+/home/akim/Other/repos/OS-Labs/Lab2/Number/Number.h
+

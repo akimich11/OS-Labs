@@ -1,0 +1,9 @@
+/home/akim/Other/repos/OS-Labs/Lab2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/akim/Other/repos/OS-Labs/Lab2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/akim/Other/repos/OS-Labs/Lab2/cmake-build-debug/CMakeFiles/Main.dir
+/home/akim/Other/repos/OS-Labs/Lab2/cmake-build-debug/Number/CMakeFiles/rebuild_cache.dir
+/home/akim/Other/repos/OS-Labs/Lab2/cmake-build-debug/Number/CMakeFiles/edit_cache.dir
+/home/akim/Other/repos/OS-Labs/Lab2/cmake-build-debug/Number/CMakeFiles/Number.dir
+/home/akim/Other/repos/OS-Labs/Lab2/cmake-build-debug/Vector/CMakeFiles/edit_cache.dir
+/home/akim/Other/repos/OS-Labs/Lab2/cmake-build-debug/Vector/CMakeFiles/rebuild_cache.dir
+/home/akim/Other/repos/OS-Labs/Lab2/cmake-build-debug/Vector/CMakeFiles/Vector.dir

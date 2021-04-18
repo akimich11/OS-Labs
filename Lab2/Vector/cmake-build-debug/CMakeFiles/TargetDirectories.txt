@@ -1,0 +1,3 @@
+/home/akim/Other/repos/OS-Labs/Lab2/Vector/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/akim/Other/repos/OS-Labs/Lab2/Vector/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/akim/Other/repos/OS-Labs/Lab2/Vector/cmake-build-debug/CMakeFiles/Vector.dir
