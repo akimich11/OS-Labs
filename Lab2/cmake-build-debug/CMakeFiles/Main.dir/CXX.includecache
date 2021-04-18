@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../Number/Number.h
+iostream
+-
+
+../Vector/Vector.h
+../Number/Number.h
+../Number/Number.h
+
+/home/akim/Other/repos/OS-Labs/Lab2/main.cpp
+Vector.h
+/home/akim/Other/repos/OS-Labs/Lab2/Vector.h
+

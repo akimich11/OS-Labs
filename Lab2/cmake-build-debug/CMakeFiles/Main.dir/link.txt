@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Main.dir/main.cpp.o  -o Main  -Wl,-rpath,/home/akim/Other/repos/OS-Labs/Lab2/cmake-build-debug/Vector Number/libNumber.a Vector/libVector.so 
