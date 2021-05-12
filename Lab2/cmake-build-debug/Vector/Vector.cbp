@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Vector"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\Number\;CMake Files\Vector\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/akim/Other/repos/OS-Labs/Lab2/cmake-build-debug/Vector"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/akim/Other/repos/OS-Labs/Lab2/cmake-build-debug/Vector/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/akim/Other/repos/OS-Labs/Lab2/cmake-build-debug/Vector/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/akim/Other/repos/OS-Labs/Lab2/cmake-build-debug/Vector/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/akim/Other/repos/OS-Labs/Lab2/cmake-build-debug/Vector/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Vector">
+				<Option output="/home/akim/Other/repos/OS-Labs/Lab2/cmake-build-debug/Vector/libVector.so" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/akim/Other/repos/OS-Labs/Lab2/cmake-build-debug/Vector"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/akim/Other/repos/OS-Labs/Lab2/cmake-build-debug/Vector/Makefile&quot;  VERBOSE=1 Vector"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/akim/Other/repos/OS-Labs/Lab2/cmake-build-debug/Vector/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/akim/Other/repos/OS-Labs/Lab2/cmake-build-debug/Vector/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/akim/Other/repos/OS-Labs/Lab2/cmake-build-debug/Vector/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Vector/fast">
+				<Option output="/home/akim/Other/repos/OS-Labs/Lab2/cmake-build-debug/Vector/libVector.so" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/akim/Other/repos/OS-Labs/Lab2/cmake-build-debug/Vector"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/akim/Other/repos/OS-Labs/Lab2/cmake-build-debug/Vector/Makefile&quot;  VERBOSE=1 Vector/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/akim/Other/repos/OS-Labs/Lab2/cmake-build-debug/Vector/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/akim/Other/repos/OS-Labs/Lab2/cmake-build-debug/Vector/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/akim/Other/repos/OS-Labs/Lab2/cmake-build-debug/Vector/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/akim/Other/repos/OS-Labs/Lab2/Vector/Vector.cpp">
+			<Option target="Vector"/>
+		</Unit>
+		<Unit filename="/home/akim/Other/repos/OS-Labs/Lab2/Vector/Vector.h">
+			<Option target="Vector"/>
+		</Unit>
+		<Unit filename="/home/akim/Other/repos/OS-Labs/Lab2/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/akim/Other/repos/OS-Labs/Lab2/Number/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Number\"/>
+		</Unit>
+		<Unit filename="/home/akim/Other/repos/OS-Labs/Lab2/Vector/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Vector\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
